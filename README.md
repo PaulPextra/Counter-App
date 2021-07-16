@@ -1,6 +1,6 @@
 # Counter-App
 
-This a simple JavaScript app that increments count number whenever the "INCREMENT" button is clicked. 
+This is a simple JavaScript app that increments count number whenever the "INCREMENT" button is clicked. 
 
 it saves the count on the "Previous entries" paragraph whenever the "SAVE" button is clicked.
 
